@@ -1,3 +1,22 @@
+## About Me
+
+I am a tech, finance, and most importantly, a data guy. I love to build on my strengths, but also double down on my weaknesses. 
+
+Previously, I have worked as an actuarial research scholar at the Centre of Excellence in Population Ageing Research under the University of New South Wales.
+
+I have also worked as a technology intern within the fintech space. 
+
+The data science space is something that excites me at the moment a
+
+## Projects
+
+- This personal website
+- Match prediction algorithm for mixed-martial arts (specifically for the Ultimate Fighting Championship)
+
+
+
+Irrelevant -> 
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/PrimeTerra/PersonalWebsite.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
@@ -10,8 +29,6 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 
 ```markdown
 Syntax highlighted code block
-
-# Header 1 MARKDOWN BLOCK
 
 # Header 1
 ## Header 2
